@@ -2,12 +2,10 @@
 
 Här är en beskrivning av de patterns jag använt och var:
 
-1
+1- Jag har använt Singleton i (Logger)
 
 
-2
+2- Retry pattern i (InterestService)
 
 
-3
-
-etc etc
+3- IRepository i (ICustomersRepository)
